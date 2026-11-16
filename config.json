@@ -1,0 +1,5 @@
+{
+  "name": "Mi Clon de Firefox",
+  "image": "://microsoft.com",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y python3-pip curl xvfb fluxbox x11vnc mesa-utils libasound2 git"
+}
